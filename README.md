@@ -1,6 +1,8 @@
 # Melodfy
 
-[Releases](https://github.com/shutjs/Melodfy/releases/tag/Melodfy)
+[Releases](https://github.com/shutjs/Melodfy/releases/tag/Melodfy) [Discord](https://discord.com/users/669513018777796638)
+
+Web - Mobil - Masaüstü Uygulama 
 
 ## Ekran Görüntüleri
 
