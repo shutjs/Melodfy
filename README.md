@@ -14,7 +14,7 @@ Kullanıcıların kendi müzik listelerini oluşturabildiği ve düzenleyebildi�
 ---
 
 ### 2. Profil Sayfası
-Takipçi, takip edilen, beğenilen şarkı ve çalma listeleri gibi detayların gösterildiği kullanıcı profili.
+Takipçi, takip edilen, beğenilen şarkı ve çalma listeleri gibi detayların gösterildiği kullanıcı profili ve socket io sync.
 
 ![Profile](https://github.com/shutjs/Melodfy/blob/main/Images/Screen3.png?raw=true)
 
