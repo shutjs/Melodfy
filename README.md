@@ -1,5 +1,7 @@
 # Melodfy
 
+[Releases](https://github.com/shutjs/Melodfy/releases/tag/Melodfy)
+
 ## Ekran Görüntüleri
 
 ![Main](https://github.com/shutjs/Melodfy/blob/main/Images/Screen1.png?raw=true)
