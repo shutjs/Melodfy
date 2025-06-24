@@ -1,0 +1,53 @@
+{
+  "name": "melodfy-web",
+  "version": "0.1.0",
+  "author": "Shut",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "@radix-ui/react-slot": "^1.2.3",
+    "autoprefixer": "^10.4.17",
+    "bcrypt": "^6.0.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "colorthief": "^2.6.0",
+    "discord-presence": "^2.0.0",
+    "hls.js": "^1.6.5",
+    "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.511.0",
+    "motion": "^12.18.1",
+    "next": "14.1.0",
+    "postcss": "^8.4.35",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-easy-crop": "^5.4.2",
+    "react-icons": "^5.5.0",
+    "socket.io-client": "^4.8.1",
+    "sonner": "^2.0.5",
+    "tailwind-merge": "^3.3.0",
+    "tailwind-scrollbar-hide": "^4.0.0",
+    "tailwindcss": "^3.4.1",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.3.3",
+    "zustand": "^5.0.5"
+  },
+  "devDependencies": {
+    "@types/discord-rpc": "^4.0.9",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-easy-crop": "^1.16.0",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
