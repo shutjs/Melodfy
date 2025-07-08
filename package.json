@@ -17,7 +17,6 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "colorthief": "^2.6.0",
-    "discord-presence": "^2.0.0",
     "hls.js": "^1.6.5",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.511.0",
